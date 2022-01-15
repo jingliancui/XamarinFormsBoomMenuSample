@@ -3,7 +3,7 @@ Sample for showing BoomMenu features on Xamarin.Forms.
 
 Tutorial:
 
-
+https://mp.weixin.qq.com/s/MaMv8l-RiqmxRQUGEUHENg
 
 QQ Group:
 
