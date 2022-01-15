@@ -14,3 +14,7 @@ QQ Group:
 WeChat Official Account(微信公众号):
 
 Xamarin Library
+
+<img src="https://github.com/jingliancui/XamarinFormsBoomMenuSample/blob/main/Images/wechatqrcode.jpg?raw=true"/>
+
+<img src="https://github.com/jingliancui/XamarinFormsBoomMenuSample/blob/main/Images/click.gif?raw=true" width="300" height="550"/>
